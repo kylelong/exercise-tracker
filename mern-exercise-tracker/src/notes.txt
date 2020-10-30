@@ -1,0 +1,7 @@
+mongodb+srv://kylel95:<password>@cluster0.l1wtb.gcp.mongodb.net/<dbname>?retryWrites=true&w=majority
+npm i express cors mongoose dotenv
+npm i -g nodemon
+ npm i react-router-dom
+ npm i react-datepicker
+ npm i axios
+ Front end sends request to the http endpoints on the server backend via axios
